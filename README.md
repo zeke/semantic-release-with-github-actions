@@ -21,6 +21,8 @@ Read more at https://github.com/features/actions or what a short demo at https:/
 - [x] Create npm token using `npm token create` or https://www.npmjs.com/settings
 - [x] Add token to repo secrets as `NPM_TOKEN`
 - [x] Add release workflow file to `.github/workflows/release.yml`
+- [x] Set `version` to `0.0.0-development` in package.json
+- [x] `npm i -D semantic-release`
 - [x] Use semantic commit messages
 - [x] Create a pull request
 
