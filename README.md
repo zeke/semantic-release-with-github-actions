@@ -2,6 +2,11 @@
 
 > This is a demo of how to automatically publish npm packages to the npm registry using GitHub Actions and `semantic-release`.
 
+Watch the demo at https://www.youtube.com/watch?v=rCXq86FOlzQ
+
+[![screenshot](https://user-images.githubusercontent.com/2289/77105755-4daa9280-69db-11ea-9831-f70668738924.png)
+](https://www.youtube.com/watch?v=rCXq86FOlzQ)
+
 ## What is semantic-release?
 
 > semantic-release automates the whole package release workflow including: determining the next version number, generating the release notes and publishing the package. This removes the immediate connection between human emotions and version numbers, strictly following the Semantic Versioning specification.
