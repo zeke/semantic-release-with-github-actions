@@ -1,0 +1,11 @@
+{
+  "name": "semantic-release-with-github-actions",
+  "repository": "https://github.com/zeke/semantic-release-with-github-actions",
+  "main": "index.js",
+  "devDependencies": {
+    "jest": "^25.1.0"
+  },
+  "scripts": {
+    "test": "jest test.js"
+  }
+}
