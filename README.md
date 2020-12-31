@@ -21,7 +21,6 @@ Read more at https://github.com/features/actions or what a short demo at https:/
 
 ## Steps to set up Semantic Release on your GitHub repo
 
-```
 - [ ] Only allow squash merging of pull requests
 - [ ] Install https://github.com/apps/semantic-pull-requests
 - [ ] Create npm token using `npm token create` or https://www.npmjs.com/settings
@@ -31,7 +30,6 @@ Read more at https://github.com/features/actions or what a short demo at https:/
 - [ ] `npm i -D semantic-release`
 - [ ] Use semantic commit messages
 - [ ] Create a pull request
-```
 
 ## Example Workflow
 
